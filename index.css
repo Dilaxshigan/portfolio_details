@@ -1,0 +1,32 @@
+.bg-primary-color {
+    background-color: #A31621;
+}
+
+.bg-secondary-color {
+    background-color: #FFF3F4;
+}
+
+.bg-text-color {
+    background-color: #1E1E1E;
+}
+
+.bg-text-color-2 {
+    background-color: #595959;
+}
+
+.bg-bg-color {
+    background-color: #F3F3F3;
+}
+
+.color-sample {
+    width: 141px;
+    height: 173px;
+    margin: 0 auto;
+    border-radius: 63% 37% 30% 70% / 50% 45% 55% 50%;
+}
+#Home-2{
+    background-image: url('img/image\ 15.svg');
+    background-size: cover;
+    background-position: center;
+    min-height: 661px;
+}
